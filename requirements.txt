@@ -1,0 +1,5 @@
+﻿tensorflow>=2.12
+tensorflow-datasets>=4.9
+matplotlib
+numpy
+pandas
