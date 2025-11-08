@@ -17,7 +17,8 @@ It applies **transfer learning** on **EfficientNetB7** and achieves ~**67.76% ac
 | Food_Vision_Capstone_Project.ipynb | Jupyter/Colab notebook with training and evaluation code |
 | Final Report (Capstone Project).pdf | Full written report |
 | Food Vision AI Capstone Project.pptx | Presentation slides |
-| equirements.txt | Python dependencies |
+| 
+equirements.txt | Python dependencies |
 | .gitignore | Ignore rules for repo cleanliness |
 
 ---
@@ -28,10 +29,16 @@ pip install -r requirements.txt
 import tensorflow_datasets as tfds
 tfds.load("food101", as_supervised=True)
 
-🚀 Future Improvements
+##🎥 Demo Video
+
+Watch the working demo here:
+👉 [Food Vision AI 🍔 | Can AI Guess What You’re Eating?](https://youtu.be/TKCv--Ysv1w)
+
+##🚀 Future Improvements
 
 Export and host trained model for inference
 
 Add Streamlit web demo
 
 Fine-tune on additional data for higher accuracy© 2025 Hammad Latif
+
