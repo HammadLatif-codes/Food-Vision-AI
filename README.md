@@ -29,16 +29,17 @@ pip install -r requirements.txt
 import tensorflow_datasets as tfds
 tfds.load("food101", as_supervised=True)
 
-##🎥 Demo Video
+## 🎥 Demo Video
 
 Watch the working demo here:
 👉 [Food Vision AI 🍔 | Can AI Guess What You’re Eating?](https://youtu.be/TKCv--Ysv1w)
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 Export and host trained model for inference
 
 Add Streamlit web demo
 
 Fine-tune on additional data for higher accuracy© 2025 Hammad Latif
+
 
